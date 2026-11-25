@@ -4,9 +4,7 @@ import org.json.JSONObject
 
 class Tools {
 
-    // Stolen, but you can get it in ListOfServers (if somebody makes classic room)
     public static final id = '719a8f523b3dc106 ! com.simejikeyboard/com.baidu.simeji.SimejiIME ! null ! http://www.google.com http://www.google.co.uk ! SP1A.210812.016 ! 21081111RG ! unknown'
-
     public static final check = '2068136186'
     public static final serverUrl = 'http://mafiaonline.jcloud.kz'
     public static final isUsePassword = true
